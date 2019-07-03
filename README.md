@@ -16,11 +16,11 @@ Seam carving uses an energy function defining importance of pixels. A seam is a 
 
 
 ## Vertical Image Reduction
-![Image_Reduction_vertical](Images/fig5_comparison.png)
+![Image_Reduction_vertical](Images/fig5_comparison.PNG)
 
 ## Vertical & Horizontal image reduction
-![Image_Reduction_full](Images/fig2_comparison.png)
+![Image_Reduction_full](Images/fig2_comparison.PNG)
 
 
 ## Image Enlargement
-![Image_Enlargement](Images/fig3_comparison.png)
+![Image_Enlargement](Images/fig3_comparison.PNG)
