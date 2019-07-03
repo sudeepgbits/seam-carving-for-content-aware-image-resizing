@@ -15,3 +15,12 @@ Seam carving uses an energy function defining importance of pixels. A seam is a 
 - Image retargating function will take "fig7.png" as input and generate "fig7_output.png" and "transport map.png" as outputs.
 
 
+## Vertical Image Reduction
+![Image_Reduction_vertical](Images/fig5_comparison.png)
+
+## Vertical & Horizontal image reduction
+![Image_Reduction_full](Images/fig2_comparison.png)
+
+
+## Image Enlargement
+![Image_Enlargement](Images/fig3_comparison.png)
